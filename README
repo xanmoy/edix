@@ -1,0 +1,73 @@
++----------------+
+|Edix Text Editor|
++----------------+
+
+
+Edix is an open-source lightweight and simple text editor designed for quick and efficient editing tasks. It provides essential editing features in a minimalistic interface, allowing users to focus on their work without distractions. Edix is designed to be fast and responsive, making it ideal for editing small to medium-sized text files. Edix is a command-line text editor that runs in the terminal, providing a familiar and efficient editing environment for users. Edix is written in C programming language, making it lightweight and efficient in terms of resource usage. Edix is open-source software released under the MIT license, allowing users to modify and distribute the code freely. Edix is designed to be easy to use, with intuitive keybindings and commands that are easy to remember and use. Edix is a versatile text editor that can be used for a wide range of editing tasks, from simple text manipulation to more complex editing operations.
+
+o Features
+--------------------------------
+
+- **Basic Editing:** Insert, delete, and modify text.
+- **Line Editing:** Edit specific lines within the text.
+- **Save and Load:** Save edited files and load existing files.
+- **Minimalistic Interface:** Simple and intuitive interface for easy navigation.
+
+o Installation
+--------------------------------
+
+Edix can be easily installed on Unix-based systems using the following steps:
+
+1. Clone the repository:
+git clone [repository_url]
+
+
+2. Navigate to the directory:
+cd [edix]
+
+
+3. Compile the program:
+
+gcc edix.c -o edix
+
+
+4. Install the program:
+
+sudo make install
+
+
+o Usage
+-------------------------------- 
+
+To use Edix, simply run the following command in your terminal:
+
+edix [edix]
+
+
+Replace `[edix]` with the name of the file you want to edit.
+
+o Examples
+--------------------------------
+
+- Edit a file named `example.txt`:
+
+edix example.txt
+
+
+o License
+--------------------------------
+
+This project is licensed under the [MIT License] License - see the [LICENSE] file for details.
+
+o Support
+--------------------------------
+
+If you encounter any issues or have any questions, feel free to [contact us](mailto:contact@xanmopy.me) 
+
+o Contribution
+--------------------------------
+
+We welcome contributions from the community! If you'd like to contribute to Edix, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+
+
+
